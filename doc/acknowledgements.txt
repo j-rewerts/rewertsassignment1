@@ -1,3 +1,7 @@
+Author: Jared Rewerts
+
+I used a few sources for creating my project. 
+
 Responding to actions: https://developer.android.com/training/basics/actionbar/adding-buttons.html
 
 Overriding equals: http://stackoverflow.com/questions/27581/what-issues-should-be-considered-when-overriding-equals-and-hashcode-in-java
@@ -11,3 +15,7 @@ CheckBox onChecked Listener: http://stackoverflow.com/questions/3149414/how-to-r
 Change Options Menu Text Dynamically : http://stackoverflow.com/questions/7066657/android-how-to-dynamically-change-menu-item-text-outside-of-onoptionsitemssele
 
 Using Intents to Send Emails : http://stackoverflow.com/questions/8701634/send-email-intent
+
+I used a project from a previous 301 class to get an idea of how layout my program:
+
+https://github.com/klafond/Team05_CYOA
