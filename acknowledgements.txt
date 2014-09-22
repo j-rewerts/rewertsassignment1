@@ -1,0 +1,13 @@
+Responding to actions: https://developer.android.com/training/basics/actionbar/adding-buttons.html
+
+Overriding equals: http://stackoverflow.com/questions/27581/what-issues-should-be-considered-when-overriding-equals-and-hashcode-in-java
+
+Setting focus on EditText: http://stackoverflow.com/questions/8991522/how-can-i-set-the-focus-and-display-the-keyboard-on-my-edittext-programmatic
+
+Losing focus on EditText: http://stackoverflow.com/questions/10627137/how-can-i-know-when-a-edittext-lost-focus
+
+CheckBox onChecked Listener: http://stackoverflow.com/questions/3149414/how-to-receive-a-event-on-android-checkbox-check-change
+
+Change Options Menu Text Dynamically : http://stackoverflow.com/questions/7066657/android-how-to-dynamically-change-menu-item-text-outside-of-onoptionsitemssele
+
+Using Intents to Send Emails : http://stackoverflow.com/questions/8701634/send-email-intent

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jared Rewerts\' Todo</string>
+    <string name="button_Show_Archived">Show Archived</string>
+    <string name="button_Hide_Archived">Hide Archived</string>
+    <dimen name="text_Small">10sp</dimen>
+    <string name="save_File">todoList.sav</string>
+    <string name="action_add">Add New Todo</string>
+    <string name="action_show_archive">Show Archived</string>
+    <string name="action_hide_archive">Hide Archived</string>
+    <string name="action_archive">Archive</string>
+    <color name="color_selected">#3A3938</color>
+    <color name="color_unselected">#535250</color>
+    <string name="action_delete">Delete</string>
+    <string name="action_email_selection">Email Selected</string>
+    <string name="action_email_all">Email All</string>
+    <string name="action_summary">Summary</string>
+</resources>
